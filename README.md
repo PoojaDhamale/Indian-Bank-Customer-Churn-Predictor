@@ -1,4 +1,4 @@
-# 🏦 AI-Powered Bank Customer Churn Prediction System
+# Indian Bank Customer Churn Predictor
 
 ### 📌 Project Overview
 This is a professional, end-to-end Machine Learning application designed to predict customer churn in the Indian banking sector. Highlighting both technical ML expertise and business-driven decision-making, this project is built to be **portfolio-ready** with a premium, modern UI.
