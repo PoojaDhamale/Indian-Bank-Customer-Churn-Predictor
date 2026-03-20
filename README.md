@@ -27,8 +27,7 @@ This is a professional, end-to-end Machine Learning application designed to pred
 ```text
 IndiaBankChurnPrediction/
 ├── app.py                      # Main landing page
-├── ui_components.py            # Centralized UI styling & components
-├── hero.png                    # Professional hero image
+├── ui_components.py            # Centralized UI styling & components     
 ├── xgb_model.pkl               # Optimized XGBoost model
 ├── scaler.pkl                  # Data scaler artifact
 ├── encoder.pkl                 # Categorical encoder artifact
@@ -59,4 +58,4 @@ IndiaBankChurnPrediction/
 
 ### 👩‍💻 Author
 **Pooja Dhamale**  
-*Machine Learning & Data Science Enthusiast*
+*Machine Learning & Data Science Enthusiast*
